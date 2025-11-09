@@ -60,30 +60,6 @@ Implement the `groupByCategory` function that organizes items by their category.
 
 **Location:** `challange-2/`
 
-## 🎯 For Interviewers
-
-### Running a Mock Interview
-
-1. **Setup (5 minutes)**
-   - Share the repository or specific challenge folder
-   - Explain the test framework
-   - Clarify that they should implement the function in `utils.ts`
-
-2. **Challenge 1 (10-15 minutes)**
-   - Start with the easier challenge to warm up
-   - Observe problem-solving approach
-   - Discuss edge cases
-
-3. **Challenge 2 (20-25 minutes)**
-   - Move to the medium difficulty challenge
-   - Focus on code quality and efficiency
-   - Discuss alternative approaches
-
-4. **Review (5-10 minutes)**
-   - Run tests together
-   - Discuss solution and improvements
-   - Provide feedback
-
 ### Test Framework
 
 The included `unit_test.ts` provides a minimal testing framework with:
@@ -126,16 +102,3 @@ SUBMIT=true npx tsx main_test.ts
 - Tests are designed to fail initially (stub implementations)
 - Clear error messages help guide candidates
 - Solutions are intentionally excluded from challenge directories
-
-## 🤝 Contributing
-
-Feel free to add more challenges or improve existing ones. Each challenge should:
-- Have clear instructions in `instruction.md`
-- Include a stub implementation in `utils.ts`
-- Have comprehensive test cases in `main_test.ts`
-- Include a reference solution in `answers/`
-
-## 📄 License
-
-This project is open source and available for educational purposes.
-
